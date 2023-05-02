@@ -1,5 +1,8 @@
 import java.awt.*;
+
+// first commit for experiment 2
 // first commit for experiment 1
+
 public class Board {
 	// grid line width
 	public static final int GRID_WIDTH = 8;
